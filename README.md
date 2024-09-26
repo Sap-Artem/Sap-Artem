@@ -1,4 +1,4 @@
-## I am Finnish young student 
+## I am Finnish young student and LGBTQ+ person
 ![image](https://github.com/user-attachments/assets/bb97eba5-4b40-46f3-8b8d-d622b5561a55)
 ### Educathion: ITMO university
 ### Programming language: Python, Java, C#
